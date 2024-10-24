@@ -40,7 +40,7 @@ git log --oneline --graph --decorate --all
 git checkout develop
 git merge feature/nom_de_la_fonctionnalité
 ```
-## 🛠️ **Commandes Git**
+
 
 
 
